@@ -18,8 +18,8 @@ This project simulates a simple appointment system using **Python** and the **SP
 1.  Open `main.py`.
 2.  Enter your XMPP username and password in the top section:
     ```python
-    SCHEDULER_ID = "your_name@xmpp.jp"
-    CLIENT_ID = "your_name2@xmpp.jp"
+    Schedular_ID = "Scheduler@jabbim.com"
+    CLIENT_ID = "RequestSender@jabbim.com"
     ```
 3.  Run the code:
     ```bash
